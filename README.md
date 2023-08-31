@@ -1,2 +1,2 @@
-Sample Java Applicaitons V3.6
+Samples Java Applicaitons V3.6
 
