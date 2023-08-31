@@ -1,2 +1,2 @@
-Sample Java Applicaiton V3.6
-newone
+Sample Java Applicaitons V3.6
+
